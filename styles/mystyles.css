@@ -1,0 +1,35 @@
+li{
+    font-family: monospace;
+    color: purple;
+}
+
+body{
+    background-image: url("../images/lightblue.jpg");
+    color: purple
+}
+
+
+header{
+    color: aquamarine;
+    font-size: 12px
+}
+
+h1{
+    color: cadetblue;
+    font-size: 16px;
+}
+
+a{
+    font-size: 18px;
+    color: lightcoral;
+    font-style: italic;
+}
+
+
+.footer{
+    font-family: calibri;
+    font-size: 14px;
+    color: black;
+    bottom: 1px;
+    text-align: center;
+}

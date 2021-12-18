@@ -1,0 +1,36 @@
+body{
+    background-image: url("../images/lightblue.jpg");
+    color: purple
+}
+
+a{
+    font-size: 20px;
+}
+
+.common{
+    position: absolute;
+    border: solid 1px blue;
+    background-color: aqua;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 30px;
+    border-bottom: solid 1px blue;
+    background-color: lightyellow;
+}
+
+.tableau{
+    Width: 50%;
+    top: 100px;
+    left: 5px;
+}
+
+.footer{
+    font-size: 16px;
+    bottom: 2px;
+    height: 5px;
+    text-align: center;
+}
